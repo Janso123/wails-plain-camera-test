@@ -1,0 +1,9 @@
+{
+  "name": "testplain",
+  "outputfilename": "testplain",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "Jan Piechowicz",
+    "email": "jan.piechowicz@profipoint.pl"
+  }
+}
